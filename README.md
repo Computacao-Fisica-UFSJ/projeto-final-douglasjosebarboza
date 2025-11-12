@@ -15,4 +15,4 @@ O projeto consiste em um varal que irá recolher as roupas de maneira automátic
 
 
 # Referencias
-https://electropeak.com/learn/interfacing-l9110s-dual-channel-h-bridge-motor-driver-module-with-arduino/
+[Motor](https://www.blogdarobotica.com/2022/10/10/como-controlar-um-motor-dc-usando-o-mini-driver-ponte-h-l9110s/)
